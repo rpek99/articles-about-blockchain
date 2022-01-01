@@ -1,4 +1,4 @@
-# readingArticlesAboutBlockchain
+# Reading Articles About Blockchain
 
 Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
 Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
