@@ -10,38 +10,43 @@ Author/Authors: Zaleha Fauziah, Haznah Latifah, Xavier Omar <br/>
 Date: Vol. 2 No. 2 September 2020 <br/>
 Link: https://att.aptisi.or.id/index.php/att/article/view/97/93 <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: Bitcoin: A Peer-to-Peer Electronic Cash System <br/>
+Author/Authors: Satoshi Nakamoto <br/>
+Date: 2018 <br/>
+Link: https://bitcoin.org/bitcoin.pdf <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: EscrowChain: Leveraging Ethereum Blockchain as Escrow in Real Estate <br/>
+Author/Authors: Neel Kirit, Priya Sarkar <br/>
+Date: October 2017 <br/>
+Link: https://www.researchgate.net/publication/325392683_EscrowChain_Leveraging_Ethereum_Blockchain_as_Escrow_in_Real_Estate <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: ETHEREUM AND THE SMART CONRACTS<br/>
+Author/Authors: Mete TEVETOĞLU  <br/>
+Date:  2021, Cilt 12, Sayı 1, 193 - 208, 30.06.2021 <br/>
+Link: https://dergipark.org.tr/tr/download/article-file/1485641  <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: Systematic Literature Review of Blockchain Applications: Smart Contracts <br/>
+Author/Authors: Elva Leka,Besnik Selimi,Luis Lamani <br/>
+Date: September 2019 <br/>
+Link: https://www.researchgate.net/publication/336336490_Systematic_Literature_Review_of_Blockchain_Applications_Smart_Contracts <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: Smart Contracts: Security Patterns in the Ethereum Ecosystem and Solidity <br/>
+Author/Authors: Maximilian Wöhrer and Uwe Zdun <br/>
+Date: 978-1-5386-5986-1/18 c 2018 IEEE <br/>
+Link: http://eprints.cs.univie.ac.at/5433/7/sanerws18iwbosemain-id1-p-380f58e-35576-preprint.pdf <br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: Towards A Blockchain Based Smart Contracts Model Design For Housing Market Applications <br/>
+Author/Authors: Alex Kibet, Moses M. Thiga, Simon Maina Karume <br/>
+Date:  Volume 8, Issue 8, August 2019, ISSN: 2278 – 1323<br/>
+Link:  http://ijarcet.org/wp-content/uploads/IJARCET-VOL-8-ISSUE-8-318-326.pdf<br/>
 <br/><br/>
-Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
-Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
-Date: Received May 20, 2019, accepted June 3, 2019, date of publication June 7, 2019, date of current version June 27, 2019. <br/>
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8732934 <br/>
+Article Name: The Impact of Blockchain Technology on the Real Estate Sector Using Smart Contracts <br/>
+Author/Authors: Uzair, Muhammad Mansab and Karim, Emadul and Sultan,Prof. Dr. Shair and Ahmed, Syed Sheeraz <br/>
+Date: April 2018 <br/>
+Link: https://mpra.ub.uni-muenchen.de/89038/1/MPRA_paper_89038.pdf <br/>
+<br/><br/>
+Article Name: Design Patterns for Gas Optimization in Ethereu <br/>
+Author/Authors: Lodovica Marchesi, Michele Marchesi, Giuseppe Destefanis, Giulio Barabino, Danilo Tigano <br/>
+Date: 23 February 2021. <br/>
+Link: https://www.researchgate.net/publication/340300470_Design_Patterns_for_Gas_Optimization_in_Ethereum <br/>
 <br/><br/>
