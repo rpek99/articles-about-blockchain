@@ -1,4 +1,4 @@
-# Reading Articles About Blockchain
+# Articles List About Blockchain Technology
 
 Article Name: A Survey on Security Verification of Blockchain Smart Contracts <br/>
 Author/Authors: JING LIU, AND ZHENTIAN LIU <br/>
@@ -45,8 +45,31 @@ Author/Authors: Uzair, Muhammad Mansab and Karim, Emadul and Sultan,Prof. Dr. Sh
 Date: April 2018 <br/>
 Link: https://mpra.ub.uni-muenchen.de/89038/1/MPRA_paper_89038.pdf <br/>
 <br/><br/>
-Article Name: Design Patterns for Gas Optimization in Ethereu <br/>
+Article Name: Design Patterns for Gas Optimization in Ethereum <br/>
 Author/Authors: Lodovica Marchesi, Michele Marchesi, Giuseppe Destefanis, Giulio Barabino, Danilo Tigano <br/>
 Date: 23 February 2021. <br/>
 Link: https://www.researchgate.net/publication/340300470_Design_Patterns_for_Gas_Optimization_in_Ethereum <br/>
 <br/><br/>
+Article Name: SmartCheck: Static Analysis of Ethereum Smart Contracts <br/>
+Author/Authors: Sergei Tikhomirov, Ekaterina Voskresenskaya, Ivan Ivanitskiy, Ramil Takhaviev, Evgeny Marchenko and Yaroslav Alexandrov <br/>
+Date: May 27, 2018 <br/>
+Link: https://s-tikhomirov.github.io/assets/papers/smartcheck.pdf <br/>
+<br/><br/>
+Article Name: Blok Zinciri Teknolojisine Yapılan Saldırılar Üzerine bir İnceleme <br/>
+Author/Authors: Oğuzhan TAŞ and Farzad KİANİ <br/>
+Date: October 2018. <br/>
+Link: https://www.academia.edu/39826327/Blok_Zinciri_Teknolojisine_Yapılan_Saldırılar_Üzerine_bir_İnceleme <br/>
+<br/><br/>
+Article Name: Design Patterns for Smart Contracts in the Ethereum Ecosystem <br/>
+Author/Authors:  Maximilian Wohrer and Uwe Zdun <br/>
+Date: June 2019 <br/>
+Link: https://ucilnica.fri.uni-lj.si/pluginfile.php/137236/mod_resource/content/1/Design%20Patterns%20for%20Smart%20Contracts%20in%20the%20Ethereum%20Ecosystem.pdf <br/>
+<br/><br/>
+Article Name: A Survey of Smart Contracts: Security and Challenges <br/>
+Author/Authors:  Md. Ratul Amin, Megat F. Zuhairi, Md. Nazmus Saadat <br/>
+Date: 2020 <br/>
+<br/><br/>
+Article Name: Security Vulnerabilities in Ethereum Smart Contracts <br/>
+Author/Authors: Ardit Dika and Mariusz Nowostawski <br/>
+Date: July 2018 <br/>
+Link: https://www.researchgate.net/publication/333590995_Security_Vulnerabilities_in_Ethereum_Smart_Contracts <br/>
